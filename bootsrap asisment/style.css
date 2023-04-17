@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec-one{
+    margin: 0 auto;
+    color: white;
+    background-color: #fcc302;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.head{
+    background-color: #daac00;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    margin: 13px 20px;
+}
+.top ul li{
+    float: left;
+    margin: 25px 30px;
+    font-size: 20px;
+    list-style: none;
+}
+.top ul li a{
+    text-decoration: none;
+}
+.top ul li a:hover{
+    font-size: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+.serch{
+    margin: 27px 25px;
+    padding: 10px 20px;
+}
+.sec-two{
+    margin: 0 auto;
+    color: black;
+    background-color: white;
+}
+.containt{
+    width: 100%;
+    display: flex
+}
+.containt h3{
+    font-size: 67px;
+    padding: 95px 0 25px 0;
+    margin: 40px 0 0 0
+}
+.containt p{
+    font-size: 29px;
+}
+.containt button{
+    margin: 10px 0;
+    padding: 10px 15px;
+    font-size: 20px;
+    background-color:rgb(57, 166, 202);
+    border-radius: 10px;
+}
+ .b1 {
+    background-color:none;
+}
+.col-20 button{
+    background-color: #daac00;
+    color: #ffffff;
+    border: none;
+}
+.col-20{
+    background-color: white;
+}
+.sec-three{
+    margin: 0 auto;
+    color: white;
+    background-color: #fcc302;
+}
+.text{
+   padding: 30PX 0;
+}
+.text h3{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.text p{
+    width: 70%;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: "Montserrat";
+    margin: 0 auto;
+    padding: 15PX 0;
+}
+.justify{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 50px 50px;
+}
+.cart61{
+    background-color:#fcc302;
+    width: 30%;
+}
+.cart61 button{
+    background-color: #00bec9;
+    border-radius: 30px;
+    padding:15px 25px;
+}
+.cart61 button:hover{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+}
+.h3{
+    padding: 20px 0;
+    font-size: 38px;
+}
+.p1{
+    font-size: 35px;
+}
+.sec-four{
+    background-color: white;
+    margin: 0 auto;
+    color: black;
+}
+.h4p{
+    margin-left: 80px;
+}
+.containt{
+    width: 100%;
+    display: flex
+}
+.containt h3{
+    font-size: 67px;
+    padding: 95px 0 25px 0;
+    margin: 40px 0 0 0
+}
+.containt p{
+    font-size: 29px;
+}
+.col-30 button{
+    background-color: #daac00;
+    border: none;
+    color: white;
+}
+.img1{
+    padding: 100px 0;
+}
+.sec-five{
+    margin: 0 auto;
+    color: white;
+    background-color: #fcc302;
+}.sec-six{
+    background-color: white;
+    margin: 0 auto;
+    color: black;
+}
+.img2{
+    width: 100%;
+}
+.jsc{
+    background-color: white;
+    color: black;
+}
+.ae{
+    color: #00bec9;
+
+}
+.box a{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #daac00; 
+    color: #ffffff;
+    text-decoration: none;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 0 0 0 ;
+    color: #ffffff;
+}
+.sec-seven{
+    background-color: #daac00;
+    background-image: url(./images/sec-seven\ bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.cart63 {
+    margin: 95px 85px;
+}
+.cart63 h3{
+    font-size: 40px;
+}
+.cart63 p{
+    font-size: 30px;
+}
+.sec-eight{
+    margin: 0 auto;
+    color: black;
+}
+.h4{
+    font-size: 25px;
+    padding: 10px 0;
+}
+.p5{
+    color: #00bec9;
+    font-size: 21px;
+    padding: 10px 0;
+    margin: 0 100px 0 0;
+}
+.cart61 a{
+    /* color:#00bec9; */
+    font-size: 21px;
+    margin: 0 10px ;
+    text-decoration: none;
+}
+.sec-nine{
+    margin: 0 auto;
+    color: white;
+    background-color: #343434;
+}
+.last{
+    display: flex;
+}
+.last2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.li1 h6{
+    width: 66%;
+    font-size: 30px;
+    color: #ffffff;
+}
+.li1 ul li{
+    list-style:none;
+}
+.li1 ul li a{
+    line-height: 40px;
+    padding: 0 8px 0 0;
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    justify-items: center;
+}   
+.li1{
+    margin: 60px 90px;
+}
+.last1{
+    margin: 60px 80px;
+}
+.last1 h4{
+    padding: 25px 30px 0 100px;
+    font-size: 40px;
+    color: #ffffff;
+}
+.last1 p{
+    margin: 0 30px 30px 26px;
+}
+.last1 input{
+    padding: 10px 20px;
+    background-color: #daac00;
+    border: none;
+}
+.last1 button{
+    padding: 10px 20px;
+    background-color: #00bec9;
+    border: none;
+}
+.btn2{
+    display: flex;
+}
+.social1{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 90px;
+    justify-content: space-between;
+}
+.social1 a{
+    color: #ffffff;
+    text-decoration: none;
+}
